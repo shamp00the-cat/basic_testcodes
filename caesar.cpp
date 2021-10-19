@@ -1,8 +1,5 @@
 /*
 Author: Casey Roosma
-Course: CSCI-136
-Instructor: Yasmeen Hassan
-Assignment: Lab6B
 caesar cipher
 */
 
