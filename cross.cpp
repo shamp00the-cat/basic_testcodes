@@ -1,9 +1,5 @@
 /*
 Author: Casey Roosma
-Course: CSCI-136
-Instructor: Yasmeen Hassan
-Assignment: Lab 4C
-
 creates a cross of astericks the size of user
  inputted size
 */
